@@ -45,9 +45,9 @@ public  final class CPU {
 
     @Override
     public String toString() {
-        return "частота: " + frequency + " Гц" + "\n" +
-                "количество ядер: " + numberOfCores + "\n" +
-                "производитель: " + manufacturer + "\n" +
-                "вес: " + weight + " кг";
+         return "frequency: " + frequency + " Hz" + "\n" +
+               "number of cores: " + numberOfCores + "\n" +
+               "manufacturer: " + manufacturer + "\n" +
+               "weight: " + weight + " kg";
     }
 }
