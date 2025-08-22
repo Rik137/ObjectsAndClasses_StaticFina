@@ -33,10 +33,10 @@ public final class Screen {
         return weight;
     }
 
-    @Override
+      @Override
     public String toString() {
-        return "тип: " + type + "\n" +
-                "диагональ: " + diagonal + " дюймов \n" +
-                "вес: " + weight + "кг";
-    }
+        return "type: " + type + "\n" +
+             "diagonal: " + diagonal + " inches\n" +
+             "weight: " + weight + " kg";
+    }  
 }
