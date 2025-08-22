@@ -33,10 +33,10 @@ public final class RAM {
         return weight;
     }
 
-    @Override
+       @Override
     public String toString() {
-        return  "тип: " + type + "\n" +
-                "объем памяти: " + volume + "Гб \n" +
-                "вес: " + weight + "кг";
+        return "type: " + type + "\n" +
+              "volume: " + volume + " GB\n" +
+              "weight: " + weight + " kg";
     }
 }
