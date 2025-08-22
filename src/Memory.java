@@ -33,10 +33,10 @@ public final class Memory {
         return weight;
     }
 
-    @Override
+      @Override
     public String toString() {
-        return  "тип: " + type + "\n" +
-                "объм: " + value + "Гб \n" +
-                "вес: " + weight + "кг";
+        return "type: " + type + "\n" +
+             "capacity: " + value + " GB\n" +
+             "weight: " + weight + " kg";
     }
 }
