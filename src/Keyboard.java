@@ -11,7 +11,7 @@ public final class Keyboard {
 
     public String getBacklight() {
         return backlight == true ?
-                "да" : "нет";
+                "yes" : "no";
     }
 
     public TypeKeyboard getType() {
@@ -34,10 +34,10 @@ public final class Keyboard {
         return new Keyboard(type, backlight, weight);
     }
 
-    @Override
+      @Override
     public String toString() {
-        return "тип: " + type + "\n" +
-                "наличие подсветки: " + getBacklight() + "\n" +
-                "вес: " + weight + "кг";
+        return "type: " + type + "\n" +
+              "backlight: " + getBacklight() + "\n" +
+              "weight: " + weight + " kg";
     }
 }
