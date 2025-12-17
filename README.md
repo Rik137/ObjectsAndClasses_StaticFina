@@ -78,3 +78,6 @@ backlight: no
 weight: 0.98 kg
 
 Total weight: 4.65 kg
+```
+Note: This is an educational project created to practice basic Java OOP concepts.
+
