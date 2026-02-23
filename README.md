@@ -12,16 +12,16 @@ This is a simple educational project written in Java that demonstrates object-or
 
 - **CPU** – represents a processor with frequency, number of cores, manufacturer, and weight.  
 - **RAM** – represents random access memory with type, volume, and weight.  
-- **Memory** – represents storage (HDD/SSD) with type, capacity, and weight. 
-- **Screen** – represents a display with type, diagonal, and weight.
-- **Keyboard** – represents a keyboard with type, backlight option, and weight.
-- **Computer** – aggregates all the components into a single computer model.
-- **Enums**:
-  - `TypeCPU` – CPU manufacturers (AMD, INTEL)
-  - `TypeRAM` – RAM types (DDR3, DDR4, DDR4 SDRAM)
-  - `TypeMemory` – storage types (HDD, SSD)
-  - `TypeScreen` – screen types (IPS, TN, VA)
-  - `TypeKeyboard` – keyboard types
+- **Memory** – represents storage (HDD/SSD) with type, capacity, and weight.  
+- **Screen** – represents a display with type, diagonal, and weight.  
+- **Keyboard** – represents a keyboard with type, backlight option, and weight.  
+- **Computer** – aggregates all the components into a single computer model.  
+- **Enums**:  
+  - `TypeCPU` – CPU manufacturers (AMD, INTEL)  
+  - `TypeRAM` – RAM types (DDR3, DDR4, DDR4 SDRAM)  
+  - `TypeMemory` – storage types (HDD, SSD)  
+  - `TypeScreen` – screen types (IPS, TN, VA)  
+  - `TypeKeyboard` – keyboard types  
 
 ---
 
