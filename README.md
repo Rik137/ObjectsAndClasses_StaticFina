@@ -1,18 +1,18 @@
-# Computer Components Simulation (Java)
+# Computer Components Simulation (Java)  
 
-This is a simple educational project written in Java that demonstrates object-oriented programming concepts such as:
+This is a simple educational project written in Java that demonstrates object-oriented programming concepts such as:  
 - Encapsulation
-- Immutability (using `final` and immutable setters returning new objects)
-- Composition (a `Computer` consists of CPU, RAM, Memory, Screen, and Keyboard)
-- Enums for predefined types of hardware components
+- Immutability (using `final` and immutable setters returning new objects)  
+- Composition (a `Computer` consists of CPU, RAM, Memory, Screen, and Keyboard)  
+- Enums for predefined types of hardware components  
 
 ---
 
-## Project Structure
+## Project Structure  
 
-- **CPU** – represents a processor with frequency, number of cores, manufacturer, and weight.
-- **RAM** – represents random access memory with type, volume, and weight.
-- **Memory** – represents storage (HDD/SSD) with type, capacity, and weight.
+- **CPU** – represents a processor with frequency, number of cores, manufacturer, and weight.  
+- **RAM** – represents random access memory with type, volume, and weight.  
+- **Memory** – represents storage (HDD/SSD) with type, capacity, and weight. 
 - **Screen** – represents a display with type, diagonal, and weight.
 - **Keyboard** – represents a keyboard with type, backlight option, and weight.
 - **Computer** – aggregates all the components into a single computer model.
