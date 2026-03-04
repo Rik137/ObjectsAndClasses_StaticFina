@@ -80,5 +80,5 @@ weight: 0.98 kg
 Total weight: 4.65 kg
 ```
 ---
-The repository exists purely as a learning and demonstration artifact.
+The repository exists purely as a learning and demonstration artifact.  
 
